@@ -32,8 +32,8 @@ PICS = (environ.get('PICS', 'https://ibb.co/tpZpVWsV https://ibb.co/hx5t6KZH')).
 NOR_IMG = environ.get("NOR_IMG", "https://ibb.co/1YK0YRQG")
 MELCOW_VID = environ.get("MELCOW_VID", "https://ibb.co/svJcttFw")
 SPELL_IMG = environ.get("SPELL_IMG", "https://ibb.co/FLVH483m")
-SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://envs.sh/Wdj.jpg'))
-FSUB_PICS = (environ.get('FSUB_PICS', 'https://envs.sh/Wdj.jpg')).split()  # Fsub pic
+SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://ibb.co/SXdxKzqD'))
+FSUB_PICS = (environ.get('FSUB_PICS', 'https://ibb.co/5xkw5zSS')).split()  # Fsub pic
 
 # ============================
 # Admin, Channels & Users Configuration
