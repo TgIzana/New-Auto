@@ -29,9 +29,9 @@ CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 PICS = (environ.get('PICS', 'https://ibb.co/tpZpVWsV https://ibb.co/hx5t6KZH')).split()  # Sample pic
-NOR_IMG = environ.get("NOR_IMG", "https://envs.sh/Wdj.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://envs.sh/Wdj.jpg")
-SPELL_IMG = environ.get("SPELL_IMG", "https://envs.sh/Wdj.jpg")
+NOR_IMG = environ.get("NOR_IMG", "https://ibb.co/1YK0YRQG")
+MELCOW_VID = environ.get("MELCOW_VID", "https://ibb.co/svJcttFw")
+SPELL_IMG = environ.get("SPELL_IMG", "https://ibb.co/FLVH483m")
 SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://envs.sh/Wdj.jpg'))
 FSUB_PICS = (environ.get('FSUB_PICS', 'https://envs.sh/Wdj.jpg')).split()  # Fsub pic
 
@@ -70,7 +70,7 @@ APPROVED = environ.get("APPROVED_WELCOME", "on").lower()
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Izana:293nNQpRKLBanQ5w@cluster0.athvvwe.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DATABASE_URI2 = environ.get('DATABASE_URI2', "mongodb+srv://Izana:6xT9waHNw41dMrjo@cluster0.h4dpzpj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DATABASE_NAME = environ.get('DATABASE_NAME', "ғᴀɪᴛʜ")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'ɪsɪ_sᴛᴏʀᴇ)
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'ɪsɪ_sᴛᴏʀᴇ')
 
 # ============================
 # Movie Notification & Update Settings
